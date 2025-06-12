@@ -1,9 +1,10 @@
-<<<<<<< HEAD
+
 children of men
 sunshine 
 rouge one 
-=======
+
 sushi 
 pasta 
 pizza
->>>>>>> food
+
+hello world
